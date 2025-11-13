@@ -60,7 +60,7 @@ Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM)
 
 ---
 
-## 📂 Featured Repositories (add links later)
+## 📂 Featured Repositories
 
 - RAG-ICH-Q6B  
 - QC-Stability-Design-Helper  
