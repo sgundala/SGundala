@@ -8,10 +8,10 @@ I enjoy combining machine learning with scientific reasoning to solve real-world
 
 ## 🎓 Education  
 - **PhD — Trinity College Dublin**  
-  Advanced research, analytical modeling, and scientific problem-solving.
+  
 
 - **Master’s — University of Hyderabad**  
-  Strong foundations in science, quantitative analysis, and research methodologies.
+
 
 ---
 
