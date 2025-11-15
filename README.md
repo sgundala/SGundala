@@ -2,7 +2,7 @@
 
 ## 🧠 About Me  
 Data Scientist with strong scientific curiosity, building AI Agents using RAG, MCP, n8n, and end-to-end automation frameworks.  
-I enjoy combining machine learning with scientific reasoning to solve real-world problems in biotech, automation, and AI systems.
+I enjoy combining machine learning with scientific reasoning to solve real-world problems in Finanace, Automobile, biotech, automation, and AI systems.
 
 ---
 
