@@ -7,9 +7,7 @@ I enjoy combining machine learning with scientific reasoning to solve real-world
 ---
 
 ## 🎓 Education  
-- **PhD — Trinity College Dublin**  
   
-
 - **Master’s — University of Hyderabad**  
 
 
