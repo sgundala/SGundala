@@ -67,7 +67,7 @@ Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM)
 ---
 
 ## 📫 Contact  
-- LinkedIn: *www.linkedin.com/in/sivadataphd*  
+- LinkedIn: *www.linkedin.com/in/sivadatasci*  
 - Email: *sivadatasci@gmail.com*  
 
 ---
