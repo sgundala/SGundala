@@ -35,7 +35,8 @@ Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM)
 - n8n automation  
 - Local LLMs and OpenAI models  
 - Vector Databases (ChromaDB, Pinecone)  
-- LangChain and LangGraph  
+- LangChain and LangGraph
+- Graphrag, Neo4j
 
 **Machine Learning & Data**  
 - Python, pandas, NumPy  
@@ -52,7 +53,7 @@ Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM)
 
 ## 🚀 Current Projects  
 - Building AI Agents using RAG + MCP for scientific and operational automation  
-- Stability testing & cold-chain automation concepts  
+- Stability testing & cold-chain automation concepts using Neo4j plus vector embeddings
 - ReagentXchange (surplus reagent marketplace – idea stage)  
 - ML experiments with time-series and options trading data  
 
