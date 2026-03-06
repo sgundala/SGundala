@@ -1,17 +1,24 @@
 # Hi there, I'm Siva 👋  
 
 ## 🧠 About Me  
-Data Scientist with strong scientific curiosity, building AI Agents using RAG, MCP, n8n, and end-to-end automation frameworks.  
+AI/ML engineer with strong technical and scientific curiosity, building AI Agents using RAG, MCP, n8n, and end-to-end automation frameworks.  
 I enjoy combining machine learning with scientific reasoning to solve real-world problems in Finanace, Automobile, biotech, automation, and AI systems.
 
 ---
 
 ## 🎓 Education  
   
-- **Master's — University of Hyderabad**  
+- **Master’s — University of Hyderabad**  
 
 
 ---
+## 🤖 Autonomous Agents
+
+- Built autonomous AI agents to reduce ServiceNow ticket triage time by automatically classifying, routing, and suggesting resolutions for incoming incidents.
+
+- Developed an SDLC automation agent using **LangGraph**, where multiple agents (PM, Frontend, Backend, QA) collaborate through defined nodes and edges, enabling structured workflow orchestration.
+
+- Implemented **shared contextual memory** between agents to maintain task continuity and improve decision making across the development lifecycle.
 
 ## 🤖 Machine Learning & Deep Learning Experience  
 
@@ -35,8 +42,7 @@ Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM)
 - n8n automation  
 - Local LLMs and OpenAI models  
 - Vector Databases (ChromaDB, Pinecone)  
-- LangChain and LangGraph
-- Graphrag, Neo4j
+- LangChain and LangGraph  
 
 **Machine Learning & Data**  
 - Python, pandas, NumPy  
@@ -49,26 +55,28 @@ Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM)
 - Docker, WSL  
 - Jupyter Notebook, Google Colab  
 
+
 ---
 
 ## 🚀 Current Projects  
 - Building AI Agents using RAG + MCP for scientific and operational automation  
-- Stability testing & cold-chain automation concepts using Neo4j plus vector embeddings
+- Stability testing & cold-chain automation concepts  
 - ReagentXchange (surplus reagent marketplace – idea stage)  
 - ML experiments with time-series and options trading data  
 
 ---
 
-## 📂 Repositories
+## 📂 Featured Repositories
 
-- FoundryML
-- RAG-from-Scratch
-- openclaw-moltbot_mock_scratch
+- RAG-ICH-Q6B  
+- QC-Stability-Design-Helper  
+- ReagentXchange-MVP  
+- Simple-Options-Signals  
 
 ---
 
 ## 📫 Contact  
-- LinkedIn: *www.linkedin.com/in/sivadatasci*  
+- LinkedIn: *www.linkedin.com/in/sivadataphd*  
 - Email: *sivadatasci@gmail.com*  
 
 ---
